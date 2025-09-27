@@ -1,0 +1,13 @@
+__pycache__/
+/clean/
+/cleancoco/
+/coco_images/
+/models/
+/val2017/
+/tests/
+/checkpoints/
+normalize.py
+ptohub.py
+t.py
+unet.py
+download_coco.py

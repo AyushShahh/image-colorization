@@ -1,0 +1,5 @@
+Mean of L channel: 0.48065224289894104
+Standard deviation of L channel: 0.2595507502555847
+
+mean = 0.481 ~ 0.4807
+std = 0.260 ~ 0.2596
